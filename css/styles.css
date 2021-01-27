@@ -1,0 +1,155 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 2.6rem auto auto auto;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #487e95;
+  line-height: 2
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+  color: #487e95;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #23689b;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: #eaeaeb;
+  border-width: 13px;
+  width: 5%;
+  margin: 6.25rem auto 6.25rem auto;
+}
+
+a{
+  color: #d9dab0;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #f4f5db;
+}
+.top-container {
+  background-color: #f4f5db;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 6.625rem;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  margin-bottom: 6.625rem;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.bottom-container {
+  background-color: #23689b;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 6.25rem auto auto auto;
+  text-align: left;
+  overflow: auto;
+}
+.coding-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.woodwork-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile-img{
+  width: 10%
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+.btn {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   height: 17px;
+   line-height: 17px;
+   color: #F4F5DB;
+   font-family: 'Roboto', sans-serif;
+   width: 241px;
+   font-size: 24px;
+   font-weight: 200;
+   padding: 23px;
+   background-color: #487E95;
+   -webkit-box-shadow: 1px 1px 16px 0 #000000;
+   -moz-box-shadow: 1px 1px 16px 0 #000000;
+   box-shadow: 1px 1px 16px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #23689B 1px;
+   background: #23689B;
+   background-image: -webkit-linear-gradient(top, #23689B, #1E62D0);
+   background-image: -moz-linear-gradient(top, #23689B, #1E62D0);
+   background-image: -ms-linear-gradient(top, #23689B, #1E62D0);
+   background-image: -o-linear-gradient(top, #23689B, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #23689B, #1E62D0);
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   text-decoration: none;
+}
+/*https://colorhunt.co/palette/253128'/
